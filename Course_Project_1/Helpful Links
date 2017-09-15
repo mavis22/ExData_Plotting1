@@ -1,2 +1,6 @@
 R: Date and Time
 https://www.stat.berkeley.edu/~s133/dates.html
+
+Read subset of the input file, using SQL
+http://jofrhwld.github.io/blog/2014/05/23/using_sqldf.html
+
